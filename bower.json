@@ -1,0 +1,14 @@
+{
+  "name": "laravelcinco",
+  "description": "prueba laravel5",
+  "main": "",
+  "authors": [
+    "Jinmy Solis"
+  ],
+  "license": "MIT",
+  "homepage": "laravelcinco",
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "bootstrap-material-design": "~4.0.2"
+  }
+}
